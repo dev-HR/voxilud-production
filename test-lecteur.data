@@ -1,0 +1,30 @@
+01 - Le lecteur n° 1 est Antoine DOS SANTOS.
+02 - Afficher les audio-books produits pas le lecteur n° 1.
+
+03 - Le lecteur n° 1 a produit les audio-books énoncés ci-dessous :
+       
+       AudioBook::numero    AudioBook::nbEcoutes    Oeuvre::numero      Oeuvre::titre      
+                      21                    2300                15              Le sport des rois
+                      37                    4501                28              Nino dans la nuit
+                      45                    3020                58              L'empreinte
+                      
+04 - Afficher les audio-books produits pas le lecteur n° 1.
+05 - Afficher les titres des oeuvres de chaque audio-book produit pas le lecteur n° 1.
+
+06 - Rechercher puis afficher l'audio-book n° 37 produit par le lecteur n° 1.
+07 - Rechercher puis afficher l'audio-book n° 201 produit par le lecteur n° 1.
+
+08 - Supprimer l'audio-book n° 231 de la liste de production du lecteur n° 1.
+09 - Afficher les audio-books produits pas le lecteur n° 1.
+
+10 - Supprimer l'audio-book n° 37 de la liste de production du lecteur n° 1.
+11 - Afficher les audio-books produits pas le lecteur n° 1.
+
+12 - Créer un audio-book dont le numéro est 21 et pour lequel le nombre d'écoutes s'élève à 2033.
+13 - Supprimer l'audio-book, créé à la question précédente, de la liste de production du lecteur n° 1.
+14 - Afficher les audio-books produits pas le lecteur n° 1.
+
+15 - Affecter le troisième audio-book produit par lecteur n° 1 à la variable ab45.
+16 - Supprimer l'audio-book référencé par la variable ab45, de la liste de production du lecteur n° 1.
+17 - Afficher les audio-books produits pas le lecteur n° 1.
+

@@ -1,5 +1,8 @@
+Données 
+
+
 Lecteur::numero    Lecteur::nom    Lecteur::prenom
-              1        DA SILVA             Antoine
+              1        DA SILVA            Antoine
 
        AudioBook::numero    AudioBook::nbEcoutes    Oeuvre::numero      Oeuvre::titre      
                       21                    2300                15              Le sport des rois
@@ -8,7 +11,7 @@ Lecteur::numero    Lecteur::nom    Lecteur::prenom
 
 
 Lecteur::numero    Lecteur::nom    Lecteur::prenom
-              2                      Laura
+              2           GAVAT              Laura
 
        AudioBook::numero    AudioBook::nbEcoutes    Oeuvre::numero      Oeuvre::titre      
                       49                    1200                15              Le sport des rois
@@ -16,10 +19,11 @@ Lecteur::numero    Lecteur::nom    Lecteur::prenom
                       
                       
 Lecteur::numero    Lecteur::nom    Lecteur::prenom
-              3                      Nicolas
+              3        THILLIEZ             Claire
 
        AudioBook::numero    AudioBook::nbEcoutes    Oeuvre::numero      Oeuvre::titre      
-                      85                     201                15              
-                      88                    3422                28              La vallée
+                      85                     201                82              Malgré nous...     
+                      88                    3422                93              Histoire d'os
+                     103                     238                17              Il était deux fois
 
 

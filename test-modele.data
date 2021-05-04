@@ -38,4 +38,5 @@ Méthode AppProduction::main() :
 5- Appeler la méthode getLecteursMaxAudios()
 6- Appeler la méthode getMaxEcoutes()
 7- Appeler la méthode getAudiosMaxEcoutes()
+8- Appeler la méthode getAudiosOeuvre()
 

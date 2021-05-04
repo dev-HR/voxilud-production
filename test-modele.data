@@ -32,11 +32,20 @@ Lecteur::numero    Lecteur::nom    Lecteur::prenom
 Méthode AppProduction::main() :
 
 1- Instancier le modèle
+
+Après chaque point suivant, le résultat obtenu doit-être affiché.
+
 2- Appeler la méthode getLecteur() pour le lecteur numéro 2
 3- Appeler la méthode getLecteur() pour le lecteur numéro 33
 4- Appeler la méthode getMaxAudios()
 5- Appeler la méthode getLecteursMaxAudios()
 6- Appeler la méthode getMaxEcoutes()
 7- Appeler la méthode getAudiosMaxEcoutes()
-8- Appeler la méthode getAudiosOeuvre()
+8- Appeler la méthode getAudiosOeuvre()  // Naturellement, cette méthode est à implémenter
 
+
+Rappel d'une boucle pour afficher les éléments d'une collection :
+
+for( TypeElement element : collection ){
+  S.o.p( element ) ;
+}

@@ -1,0 +1,25 @@
+Lecteur::numero    Lecteur::nom    Lecteur::prenom
+              1        DA SILVA             Antoine
+
+       AudioBook::numero    AudioBook::nbEcoutes    Oeuvre::numero      Oeuvre::titre      
+                      21                    2300                15              Le sport des rois
+                      37                    4501                28              Nino dans la nuit
+                      45                    3020                58              L'empreinte
+
+
+Lecteur::numero    Lecteur::nom    Lecteur::prenom
+              2                      Laura
+
+       AudioBook::numero    AudioBook::nbEcoutes    Oeuvre::numero      Oeuvre::titre      
+                      49                    1200                15              Le sport des rois
+                      57                    4501                77              La vallée
+                      
+                      
+Lecteur::numero    Lecteur::nom    Lecteur::prenom
+              3                      Nicolas
+
+       AudioBook::numero    AudioBook::nbEcoutes    Oeuvre::numero      Oeuvre::titre      
+                      85                     201                15              
+                      88                    3422                28              La vallée
+
+
